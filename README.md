@@ -5,5 +5,7 @@ I need to learn how to use git and github quickly for my class.
 First I'm learning how to do a pull request and how to make a
 commit.
 
+Doing pull request now.
+
 Sincerely yours,
 Dominique Moore
